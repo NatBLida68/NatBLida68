@@ -30,7 +30,7 @@ A Computer Science & Engineering graduate who Started his professional journey i
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatBLida68&theme=dark&background=000000)](https://git.io/streak-stats)
