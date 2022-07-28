@@ -8,7 +8,7 @@
 I am a Backend Developer from India. <br>
 A Computer Science & Engineering graduate who Started his professional journey in the late 2019.
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
